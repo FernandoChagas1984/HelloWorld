@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/06/05 19:23:20.000.933,=C:\Users\Feroyceanda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/09 11:19:25.553,=C:\Users\Feroyceanda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/09 11:24:16.999,C:\Users\Feroyceanda\Desktop\Hello word Delphi\U_Hello_World.pas=C:\Users\Feroyceanda\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/06/09 11:24:16.999,C:\Users\Feroyceanda\Desktop\Hello word Delphi\U_Hello_World.dfm=C:\Users\Feroyceanda\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/06/09 11:24:46.094,C:\Users\Feroyceanda\Desktop\Hello word Delphi\HelloWorld.dproj=C:\Users\Feroyceanda\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
